@@ -128,7 +128,7 @@ void StartDefaultTask(void const * argument)
 	osDelay(1);
   for(;;)
   {
-    Uartprint(3,(U8 *)"Task1 hi\r\n");
+    Uartprint(3,(U8 *)"Task1 hisdsd\r\n");
     osDelay(1000);
   }
   /* USER CODE END StartDefaultTask */
